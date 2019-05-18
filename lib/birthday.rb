@@ -18,6 +18,10 @@ def age_appropriate_birthday
       puts "Happy Birthday #{key}! You are now #{value} years old!"
     else 
       puts "You too old blood time to go slang rocks"
+    end
+    
+  end
+  
       
   
 end
