@@ -15,6 +15,8 @@ def age_appropriate_birthday
 
   birthday_kids.each do |key, value|
     if value <= 12
+      puts 
+      
   
 end
 
