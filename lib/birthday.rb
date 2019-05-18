@@ -15,7 +15,9 @@ def age_appropriate_birthday
 
   birthday_kids.each do |key, value|
     if value <= 12
-      puts 
+      puts "Happy Birthday #{key}! You are now #{value} years old!"
+    else 
+      puts "You too old blood time to go slang rocks"
       
   
 end
